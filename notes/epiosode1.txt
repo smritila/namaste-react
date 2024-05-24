@@ -25,3 +25,13 @@
   it keeps the track of exact version that is being install. any dependency or package that is being installed.
 # what is node modules?
  it is kind of a database where all packages are exist.
+
+#important note: our project needs parcel. our project has a dependency parcel.
+now parcel as a project has its own dependencies and those dependencies can have their own dependencies.this is known as transitive dependency.
+# npx parcel index.html
+ npx means executing a package
+ # using cdn link we can inject react js to your js code.
+ # cdn link is not a good approach to bring react or react dom in our project.
+
+ what is React?
+ It is a javascript package.
