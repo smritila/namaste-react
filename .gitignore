@@ -1,4 +1,4 @@
 /node_modules
 /notes
 /dist
-/.parcel-cache
+.parcel-cache
